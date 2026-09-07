@@ -1,0 +1,6 @@
+.godot
+server/node_modules
+build/windows
+build/npm-cache
+assets
+tests

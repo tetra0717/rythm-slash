@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/build/
+/server/node_modules/
+/*.zip
+/r.text()).then(console.log).catch(console.error)

@@ -1,0 +1,1 @@
+{"name":"pulse-slash-server","private":true,"type":"module","scripts":{"start":"node index.mjs","test":"node --test --test-isolation=none ../tests/rules.test.mjs","test:network":"node --test --test-isolation=none ../tests/network.test.mjs"},"dependencies":{"ws":"^8.18.0"}}
